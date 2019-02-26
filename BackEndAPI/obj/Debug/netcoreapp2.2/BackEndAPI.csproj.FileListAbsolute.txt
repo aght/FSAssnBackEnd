@@ -1,0 +1,28 @@
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.deps.json
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.runtimeconfig.json
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.runtimeconfig.dev.json
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.dll
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.pdb
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.csprojAssemblyReference.cache
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.csproj.CoreCompileInputs.cache
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.RazorAssemblyInfo.cache
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.RazorAssemblyInfo.cs
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.AssemblyInfoInputs.cache
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.AssemblyInfo.cs
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.dll
+C:\Users\Xeror\Dropbox\Visual Studio\Projects\FullStackAssignment\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.pdb
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.deps.json
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.runtimeconfig.json
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.runtimeconfig.dev.json
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.dll
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp2.2\BackEndAPI.pdb
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.csprojAssemblyReference.cache
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.csproj.CoreCompileInputs.cache
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.RazorAssemblyInfo.cache
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.RazorAssemblyInfo.cs
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.AssemblyInfoInputs.cache
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.AssemblyInfo.cs
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.dll
+C:\Users\Xeror\Desktop\FullStackAssignment\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp2.2\BackEndAPI.pdb
