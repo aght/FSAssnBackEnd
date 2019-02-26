@@ -10,7 +10,7 @@ namespace RegistrationAPI.Models
         public int BoatId { get; set; }
         public string BoatName { get; set; }
 
-        [Column(TypeName = "varchar(MAX)")]
+        //[Column(TypeName = "varchar(MAX)")]
         public string Picture { get; set; }
         public int LengthInFeet { get; set; }
         public string Make { get; set; }
