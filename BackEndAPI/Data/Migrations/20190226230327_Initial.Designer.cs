@@ -10,8 +10,8 @@ using RegistrationAPI.Data;
 namespace BackEndAPI.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20190223070428_Init")]
-    partial class Init
+    [Migration("20190226230327_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
