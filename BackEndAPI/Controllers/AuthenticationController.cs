@@ -136,7 +136,7 @@ namespace BackEndAPI.Controllers
             return Unauthorized();
         }
 
-        [HttpPost, Route("validate/password")]
+        [HttpPost, Route("validate/username")]
         public async Task<ActionResult<string>> IsValidUsername([FromBody] string username)
         {
             return Ok(new { valid = !(await _userManager.FindByNameAsync(username) == null) });
