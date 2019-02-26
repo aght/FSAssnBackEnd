@@ -12957,11 +12957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xeror\\Desktop\\FullStackAssignment\\BackEndAPI\\BackEndAPI\\BackEndAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Xeror\\Desktop\\FSAssnBackEnd\\BackEndAPI\\BackEndAPI.csproj",
       "projectName": "BackEndAPI",
-      "projectPath": "C:\\Users\\Xeror\\Desktop\\FullStackAssignment\\BackEndAPI\\BackEndAPI\\BackEndAPI.csproj",
+      "projectPath": "C:\\Users\\Xeror\\Desktop\\FSAssnBackEnd\\BackEndAPI\\BackEndAPI.csproj",
       "packagesPath": "C:\\Users\\Xeror\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xeror\\Desktop\\FullStackAssignment\\BackEndAPI\\BackEndAPI\\obj\\",
+      "outputPath": "C:\\Users\\Xeror\\Desktop\\FSAssnBackEnd\\BackEndAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
