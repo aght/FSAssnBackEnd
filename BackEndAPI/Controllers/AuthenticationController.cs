@@ -136,6 +136,16 @@ namespace BackEndAPI.Controllers
             return Unauthorized();
         }
 
+        public async Task<ActionResult<string>> IsValidUsername([FromBody] string username)
+        {
+            return Ok(new { valid = !(await _userManager.FindByNameAsync(username) == null) });
+        }
+
+        public async Task<ActionResult<string>> IsValidEmail([FromBody] string email)
+        {
+            return Ok(new { valid = !(await _userManager.FindByEmailAsync(email) == null) });
+        }
+
         private User buildRegisteringUser(RegisterModel model)
         {
             return new User()
